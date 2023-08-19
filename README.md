@@ -3,7 +3,7 @@ connect metamask with react &amp; ether
 
 # direct try on gitpod.io
 1. fork this repo
-2. login to gitpod.io
+2. login to gitpod.io with github account
 3. create new workspace on gitpod
 4. choose this repo on your fork
 5. dependencies will be installed automatically on the gitpod terminal
