@@ -11,6 +11,10 @@ connect metamask with react &amp; ether
 
 <img width="320" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/f5b1f326-06be-4302-9e3e-8fcfb9376e19">
 
+6. when you click "connect wallet" button, it will look like this :
+   <img width="911" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/5247ad9c-3f2f-449b-8dd7-11e1726a5ee0">
+ 
+
 
 # Getting Started with Create React App
 
