@@ -1,6 +1,17 @@
 # react-ether-metamask
 connect metamask with react &amp; ether
 
+# direct try on gitpod.io
+1. fork this repo
+2. login to gitpod.io
+3. create new workspace on gitpod
+4. choose this repo on your fork
+5. dependencies will be installed automatically on the gitpod terminal, then there will be a popup to see a browser preview on the lower right corner
+<img width="617" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/b8e89e32-ae52-424e-ac47-343b1d2b58e9">
+
+<img width="320" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/f5b1f326-06be-4302-9e3e-8fcfb9376e19">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
