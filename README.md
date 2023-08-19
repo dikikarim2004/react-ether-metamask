@@ -8,7 +8,7 @@ connect metamask with react &amp; ether
 4. choose this repo on your fork
 5. dependencies will be installed automatically on the gitpod terminal
    <img width="617" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/b8e89e32-ae52-424e-ac47-343b1d2b58e9">
-7. then there will be a popup to see a browser preview on the lower right corner
+7. then there will be a popup to see a browser preview on the lower right corner, click 'open preview'
    
    <img width="320" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/f5b1f326-06be-4302-9e3e-8fcfb9376e19">
 
