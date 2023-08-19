@@ -6,13 +6,12 @@ connect metamask with react &amp; ether
 2. login to gitpod.io
 3. create new workspace on gitpod
 4. choose this repo on your fork
-5. dependencies will be installed automatically on the gitpod terminal, then there will be a popup to see a browser preview on the lower right corner
-   
+5. dependencies will be installed automatically on the gitpod terminal
    <img width="617" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/b8e89e32-ae52-424e-ac47-343b1d2b58e9">
-
+7. then there will be a popup to see a browser preview on the lower right corner
    <img width="320" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/f5b1f326-06be-4302-9e3e-8fcfb9376e19">
 
-6. when you click "connect wallet" button, it will look like this :
+9. when you click "connect wallet" button, it will look like this :
    <img width="911" alt="image" src="https://github.com/dikikarim2004/react-ether-metamask/assets/117257246/5247ad9c-3f2f-449b-8dd7-11e1726a5ee0">
  
 
