@@ -1,3 +1,5 @@
+# Gnosis Builder Chapter 1 connect to metamask
+
 # react-ether-metamask
 connect metamask with react &amp; ether
 
