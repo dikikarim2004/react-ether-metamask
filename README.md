@@ -1,7 +1,7 @@
 # Gnosis Builder Chapter 1 connect to metamask
 
 # react-ether-metamask
-connect metamask with react &amp; ether
+connect gnosis to metamask with react &amp; ether
 
 # direct try on gitpod.io
 1. fork this repo
