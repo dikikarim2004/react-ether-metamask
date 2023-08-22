@@ -4,7 +4,7 @@
 menghubungkan gnosis ke metamask dengan react &amp; ether
 
 # Langsung coba di gitpod.io
-1. fork repositori ini                                                  
+1. fork repositori ini                                                            
 2. login ke gitpod.io dengan akun github
 3. buat workspace baru di gitpod
 4. pilih repositori ini yang sudah difork
